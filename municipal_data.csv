@@ -1,0 +1,9 @@
+id,city,region,population,budget,report_date
+001, Riverton ,North,1000,200000,2025-12-31
+002,LAKEVIEW,North,500,,2025-12-31
+003,Hilltown,South,0,100000,2025-12-31
+004,Riverton,South,-20,50000,31/12/2025
+005,  Oakford,South,800,unknown,2025-12-31
+006,Bayview,North,400,120000,2025-12-31
+007,Meadow,South,600,90000,2025-12-31
+001, Riverton ,North,1000,200000,2025-12-31
